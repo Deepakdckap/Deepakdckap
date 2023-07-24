@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Deepakdckap](https://github.com/Deepakdckap)
 
 - 📝 I regularly write articles on [https://deepakofficial347460294.wordpress.com/](https://deepakofficial347460294.wordpress.com/)
-<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300px" />
+<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300px" align = "right"/>
 
 - 💬 Ask me about **HTML,CSS,JS and PHP**
 
