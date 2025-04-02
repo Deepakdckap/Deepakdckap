@@ -3,20 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdckap&label=Profile%20views&color=0e75b6&style=flat" alt="deepakdckap" /> </p>
 
-- 🔭 I’m currently working on [Esendo TODO Management]([https://github.com/vigneshshankardckap/TODO_Application.git](https://github.com/vigneshshankardckap/Todo-Management.git))
-
-- 🌱 I’m currently learning **Laravel and etc..**
+- 🌱 I’m currently learning **Laravel, Python, React and etc..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deepakdckap](https://github.com/Deepakdckap)
 
 - 📝 I regularly write articles on [https://deepakofficial347460294.wordpress.com/](https://deepakofficial347460294.wordpress.com/)
 <img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300px" />
 
-- 💬 Ask me about **HTML, CSS, JS and PHP**
+- 💬 Ask me about **HTML, CSS, JS, Laravel, Python Django and React**
 
 - 📫 How to reach me **deepakmdckap@gmail.com**
 
-- 📄 Know about my experiences [https://deepakoffl.w3spaces.com/](https://deepakoffl.w3spaces.com/)
+- 📄 Know about my experiences [[[https://deepakoffl.w3spaces.com/](https://palli.dckap.com/en/blog/deepak-blog/)]([https://deepakoffl.w3spaces.com/](https://palli.dckap.com/en/blog/deepak-blog/)](https://palli.dckap.com/en/blog/deepak-blog/))
 
 - ⚡ Fun fact **if(brain!=empty) { keepCoding(); } else { orderCoffee(); }**
 
